@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "pylint>=3.3.9",
     "rich>=14.1.0",
 ]
 
